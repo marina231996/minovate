@@ -1,0 +1,30 @@
+{
+  "name": "gulp-project",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "djvang <djvang92@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/djvang/gulp-spalah",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "normalize.css#^6.0.0"
+  },
+  "_release": "de88712352",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "de88712352bfcd1c11416f3018562e36f3dafdbc"
+  },
+  "_source": "https://github.com/djvang/markupus-gulp.git",
+  "_target": "*",
+  "_originalSource": "djvang/markupus-gulp",
+  "_direct": true
+}
